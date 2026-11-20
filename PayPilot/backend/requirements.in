@@ -1,0 +1,5 @@
+# Direct runtime dependencies. Pinned, resolved versions live in requirements.txt.
+# No database, cloud credentials or hardware libraries are required.
+fastapi
+uvicorn[standard]
+pydantic-settings
